@@ -1,0 +1,21 @@
+{
+  "name": "tutorial-network",
+  "version": "0.0.1",
+  "description": "First HyperLedger network",
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "author": "Paul Custance",
+  "email": "pcustance@gmail.com",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "composer-admin": "latest",
+    "composer-client": "latest",
+    "composer-connector-embedded": "latest",
+    "chai": "latest",
+    "eslint": "latest",
+    "istanbul": "latest",
+    "mkdirp": "latest",
+    "mocha": "latest"
+  }
+}
